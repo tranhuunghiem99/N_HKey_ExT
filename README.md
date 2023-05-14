@@ -14,26 +14,31 @@ Không dài dòng nữa, cùng trải nghiệm nào 😁 ;:")) ༼ つ ◕_◕ �
 
 ## Installation
 
-Tải xuống với định dạng .zip và giải nén hoặc có thể git clone về máy nếu bạn sử dụng git cùng với NodeJS.
+Tải xuống với định dạng .zip và giải nén hoặc có thể git clone về máy nếu bạn sử dụng git cùng với NodeJs.
+> 1. TẢI XUỐNG:
+* Tải xuống dạng .Zip: 
 
-* .Zip *
+![2023-05-14 15-13-16](https://github.com/tranhuunghiem99/N_HKey_ExT/assets/72342095/a33a9cd0-f04e-4c0c-b57b-73a6ce19c773)
 
-|
-|
-
-
-
-
+* Tải xuống thông qua git với lệnh trên Command Prompt trên máy đã cài git và NodeJs:
 
 ```sh
-npm install my-crazy-module --save
+git clone https://github.com/tranhuunghiem99/N_HKey_ExT.git
 ```
+> 2. CÀI ĐẶT:
+* Tóm Tắt các bước:
+   * Tải xuống và giải nén.
+   * Mở trình duyệt vào phần quản lý của tiện ích.
+   * Bật chế độ nhà phát triển lên.
+   * Click vào tùy chọn tải lên tiện ích, lựa chọn đúng phiên bản cần tải lên v1.4.1 .
+   * Sau khi tải lên chọn phần tùy chọn phím tắt và thực hiện thêm phím tắt (video ở dưới tùy vào trình duyệt).
+   * Tận hưởng thành quả thôi!!! (☞ﾟヮﾟ)☞🥇🥈🥉🏅🎖🏆☜(ﾟヮﾟ☜)
+* EDGE:
+  
+![2023-05-14 15-32-56](https://github.com/tranhuunghiem99/N_HKey_ExT/assets/72342095/1e9f2bb8-03ea-4737-94bf-f4dcbf85bd01)
 
-Windows:
-
-```sh
-edit autoexec.bat
-```
+* CHROME:
+![2023-05-14 15-55-22](https://github.com/tranhuunghiem99/N_HKey_ExT/assets/72342095/7c0cb76a-0291-4b15-8c3a-7b625daf6f70)
 
 ## Usage example
 
