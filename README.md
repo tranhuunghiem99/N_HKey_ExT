@@ -38,53 +38,222 @@ git clone https://github.com/tranhuunghiem99/N_HKey_ExT.git
 ![2023-05-14 15-32-56](https://github.com/tranhuunghiem99/N_HKey_ExT/assets/72342095/1e9f2bb8-03ea-4737-94bf-f4dcbf85bd01)
 
 * CHROME:
+
 ![2023-05-14 15-55-22](https://github.com/tranhuunghiem99/N_HKey_ExT/assets/72342095/7c0cb76a-0291-4b15-8c3a-7b625daf6f70)
 
-## Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+## Development 
 
 ```sh
-make install
-npm test
+ "commands": {
+      "01-newtab": {
+         "description": "TABS: New tab"
+      },
+      "02-closetab": {
+         "description": "TABS: Close tab"
+      },
+      "03-nexttab": {
+         "description": "TABS: Next tab"
+      },
+      "04-prevtab": {
+         "description": "TABS: Previous tab"
+      },
+      "05-togglepin": {
+         "description": "TABS: Pin/unpin tab"
+      },
+      "06-togglemute": {
+         "description": "TABS: Mute/unmute tab"
+      },
+      "07-onlytab": {
+         "description": "TABS: Close other tabs"
+      },
+      "08-closelefttabs": {
+         "description": "TABS: Close tabs to the left"
+      },
+      "09-closerighttabs": {
+         "description": "TABS: Close tabs to the right"
+      },
+      "10-clonetab": {
+         "description": "TABS: Duplicate tab"
+      },
+      "11-movetabtonewwindow": {
+         "description": "TABS: Move tab to new window"
+      },
+      "12-reopentab": {
+         "description": "TABS: Reopen closed tab"
+      },
+      "13-firsttab": {
+         "description": "TABS: First tab"
+      },
+      "14-lasttab": {
+         "description": "TABS: Last tab"
+      },
+      "14-lastusedtab": {
+         "description": "TABS: Switch to last used tab"
+      },
+      "15-movetableft": {
+         "description": "TABS: Move tab to the left"
+      },
+      "16-movetabright": {
+         "description": "TABS: Move tab to the right"
+      },
+      "16-movetabtofirst": {
+         "description": "TABS: Move tab to first position"
+      },
+      "16-movetabtolast": {
+         "description": "TABS: Move tab to last position"
+      },
+      "17-newwindow": {
+         "description": "WINDOWS: New window"
+      },
+      "18-newprivatewindow": {
+         "description": "WINDOWS: New private window"
+      },
+      "19-closewindow": {
+         "description": "WINDOWS: Close window"
+      },
+      "19-fullscreen": {
+         "description": "WINDOWS: Toggle fullscreen"
+      },
+      "20-zoomin": {
+         "description": "ZOOMING: Zoom in"
+      },
+      "21-zoomout": {
+         "description": "ZOOMING: Zoom out"
+      },
+      "22-zoomreset": {
+         "description": "ZOOMING: Zoom reset"
+      },
+      "23-back": {
+         "description": "LOCATION: Go back"
+      },
+      "24-forward": {
+         "description": "LOCATION: Go forward"
+      },
+      "25-hardreload": {
+         "description": "LOCATION: Hard reload (bypass cache)"
+      },
+      "25-reload": {
+         "description": "LOCATION: Reload"
+      },
+      "26-searchgoogle": {
+         "description": "LOCATION: Search Google for selected text"
+      },
+      "27-copyurl": {
+         "description": "LOCATION: Copy URL to clipboard"
+      },
+      "28-top": {
+         "description": "SCROLLING: Scroll to top"
+      },
+      "29-bottom": {
+         "description": "SCROLLING: Scroll to bottom"
+      },
+      "30-print": {
+         "description": "UTILITY: Print page"
+      },
+      "30-scrolldown": {
+         "description": "SCROLLING: Scroll down"
+      },
+      "31-pagedown": {
+         "description": "SCROLLING: Page down"
+      },
+      "31-scrolldownmore": {
+         "description": "SCROLLING: Scroll down more"
+      },
+      "32-scrollup": {
+         "description": "SCROLLING: Scroll up"
+      },
+      "33-pageup": {
+         "description": "SCROLLING: Page up"
+      },
+      "33-scrollupmore": {
+         "description": "SCROLLING: Scroll up more"
+      },
+      "34-scrollright": {
+         "description": "SCROLLING: Scroll right"
+      },
+      "35-scrollrightmore": {
+         "description": "SCROLLING: Scroll right more"
+      },
+      "36-scrollleft": {
+         "description": "SCROLLING: Scroll left"
+      },
+      "37-scrollleftmore": {
+         "description": "SCROLLING: Scroll left more"
+      },
+      "38-cleardownloads": {
+         "description": "UTILITY: Clear downloads"
+      },
+      "39-viewsource": {
+         "description": "UTILITY: View source"
+      },
+      "40-disable": {
+         "description": "UTILITY: Do nothing (disable browser shortcut - experimental)"
+      },
+      "41-disable": {
+         "description": "UTILITY: Do nothing (disable browser shortcut - experimental)"
+      },
+      "42-disable": {
+         "description": "UTILITY: Do nothing (disable browser shortcut - experimental)"
+      },
+      "43-disable": {
+         "description": "UTILITY: Do nothing (disable browser shortcut - experimental)"
+      },
+      "44-disable": {
+         "description": "UTILITY: Do nothing (disable browser shortcut - experimental)"
+      },
+      "45-disable": {
+         "description": "UTILITY: Do nothing (disable browser shortcut - experimental)"
+      },
+      "46-opensettings": {
+         "description": "LOCATION: Open Settings Page"
+      },
+      "47-openextensions": {
+         "description": "LOCATION: Open Extensions Page"
+      },
+      "48-openshortcuts": {
+         "description": "LOCATION: Open Keyboard Shortcuts Page"
+      },
+      "49-showlatestdownload": {
+         "description": "DOWNLOADS: Show latest download"
+      },
+      "50-capturescreenshot": {
+         "description": "UTILITY: Capture current viewport screenshot"
+      },
+      "51-capturefullsizescreenshot": {
+         "description": "UTILITY: Capture full size screenshot (max height is 16,348px due to browser limitation)"
+      },
+      "52-forcecapturefullsizescreenshot": {
+         "description": "UTILITY: Force capture full size screenshot (when window is not scrollable)"
+      }
 ```
 
 ## Release History
 
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
+* 1.0.0 - 1.3.8
+    * CHANGE: Update docs (module code remains unchanged).
+    * Xây dựng các rq & rp giao thức thêm các phím tắt mới.
+    * Kiểm tra chạy thử trên các trình duyệt và thiết bị khác.
+    * Tích đủ số giờ chạy thử.
+* 1.3.9
+    * FIX: Crash when calling.
+    * Scale sô lượng dữ liệu & rút gọn code từ 40000 xuống 20000 dòng lệnh.
+    * Tối ưu hóa tốc độ phản hồi xuống O(n).
+* 1.4.0
+    * Tích hợp thêm tự động nhận phím cài đặt 
+    * Chỉnh sửa dữ liệu phù hợp
+* 1.4.1
+    * Xóa bỏ bản có option tích hợp op2 để import và export JSON data.
+    * Xây dựng lite dựa trên nền tảng yêu cầu trình duyệt .
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+THNghiem                                            x                                      Ca_THN_Studios 
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+([https://github.com/dbader/](https://github.com/tranhuunghiem99))
 
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
