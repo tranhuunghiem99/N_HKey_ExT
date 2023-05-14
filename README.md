@@ -1,18 +1,22 @@
 # N_HKey_ExT
-# Product Name
-> Short blurb about what your product does.
+
+> Xin chào!
+> Lại là tôi đây. Hôm nay tôi sẽ đem đến cho mọi người một tiện ích giúp tăng thao tác thay cũng như có thể tùy chỉnh các hotkey mặc định của trình duyệt. Nhằm tăng hiệu quả cũng như năng suất trong công việc.
+> 
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
+Không dài dòng nữa, cùng trải nghiệm nào 😁 ;:")) ༼ つ ◕_◕ ༽つ
 
 ![](header.png)
 
 ## Installation
 
-OS X & Linux:
+Tải xuống với định dạng .zip và giải nén hoặc có thể git clone về máy nếu bạn sử dụng git cùng với NodeJS.
+
+* .Zip *
 
 ```sh
 npm install my-crazy-module --save
