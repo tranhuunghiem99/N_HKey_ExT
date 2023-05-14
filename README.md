@@ -4,9 +4,8 @@
 > Lại là tôi đây. Hôm nay tôi sẽ đem đến cho mọi người một tiện ích giúp tăng thao tác thay cũng như có thể tùy chỉnh các hotkey mặc định của trình duyệt. Nhằm tăng hiệu quả cũng như năng suất trong công việc.
 > 
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+![Profile views](https://gpvc.arturio.dev/tranhuunghiem99)  
+
 
 Không dài dòng nữa, cùng trải nghiệm nào 😁 ;:")) ༼ つ ◕_◕ ༽つ
 
@@ -253,15 +252,8 @@ git clone https://github.com/tranhuunghiem99/N_HKey_ExT.git
 
 THNghiem                                            x                                      Ca_THN_Studios 
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Distributed under the NHKey_EXT (Full & Lite) license. See ``LICENSE`` for more information.
 
-([https://github.com/dbader/](https://github.com/tranhuunghiem99))
+[https://github.com/tranhuunghiem99/](https://github.com/tranhuunghiem99)
 
 
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
