@@ -1,0 +1,20 @@
+.select select {
+    max-width: 300px !important;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.p-1 {
+    padding: 1em;
+}
+input{
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: center;
+}
+.button:hover{
+    background-color: darkgrey;
+    font-weight: bold;
+}
