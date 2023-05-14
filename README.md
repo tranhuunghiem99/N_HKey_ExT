@@ -35,9 +35,12 @@ git clone https://github.com/tranhuunghiem99/N_HKey_ExT.git
    * Tận hưởng thành quả thôi!!! (☞ﾟヮﾟ)☞🥇🥈🥉🏅🎖🏆☜(ﾟヮﾟ☜)
 * EDGE:
   
+  
 ![2023-05-14 15-32-56](https://github.com/tranhuunghiem99/N_HKey_ExT/assets/72342095/1e9f2bb8-03ea-4737-94bf-f4dcbf85bd01)
 
 * CHROME:
+
+
 
 ![2023-05-14 15-55-22](https://github.com/tranhuunghiem99/N_HKey_ExT/assets/72342095/7c0cb76a-0291-4b15-8c3a-7b625daf6f70)
 
