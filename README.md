@@ -240,13 +240,14 @@ git clone https://github.com/tranhuunghiem99/N_HKey_ExT.git
 * 1.3.9
     * FIX: Crash when calling.
     * Scale sô lượng dữ liệu & rút gọn code từ 40000 xuống 20000 dòng lệnh.
-    * Tối ưu hóa tốc độ phản hồi xuống O(n).
+    * O(n).
 * 1.4.0
     * Tích hợp thêm tự động nhận phím cài đặt 
     * Chỉnh sửa dữ liệu phù hợp
 * 1.4.1
     * Xóa bỏ bản có option tích hợp op2 để import và export JSON data.
     * Xây dựng lite dựa trên nền tảng yêu cầu trình duyệt .
+    * O(log n)
 
 ## Meta
 
